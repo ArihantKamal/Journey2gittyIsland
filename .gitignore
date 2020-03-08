@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+# Updating Exceptions here : jpeg files
+*.jpg
